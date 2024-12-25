@@ -4,7 +4,6 @@
 
 ![Unity](https://img.shields.io/badge/Made%20with-Unity-000000?logo=unity&logoColor=white)  
 ![Version](https://img.shields.io/badge/Version-Under%20Development-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Welcome to **Kitchenmania**, a fun and challenging game where you explore the exciting dynamics of running a busy kitchen! 🚀 
 
@@ -76,13 +75,6 @@ Special thanks to **[CodeMonkey](https://www.youtube.com/@CodeMonkeyUnity)** for
 
 ⚠️ **Screenshots and gameplay preview coming soon!**
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
 
 ### 🌐 Connect with Me  
 
