@@ -32,7 +32,8 @@ This project is inspired by the fantastic **CodeMonkey** tutorials ([YouTube Cha
 |------|--------------|  
 | W/A/S/D | Movement    |  
 | E    | Interact     |  
-| F    | Cutting      |  
+| F    | Cutting      | 
+| Esc    | Pause      | 
 
 ---
 
