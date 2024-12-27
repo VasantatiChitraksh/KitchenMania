@@ -72,11 +72,29 @@ Special thanks to **[CodeMonkey](https://www.youtube.com/@CodeMonkeyUnity)** for
 
 ---
 
-Or Just Download the .exe file and Play it on a windows platform
+## How to Run
+
+1. Download the .exe file and .dll(Present in root directory)
+2. Put Them on the same folder
+3. Run the .exe and enjoy
+
+---
 
 ## ✨ Preview
+**Main Menu**
+![Main Menu](https://github.com/user-attachments/assets/5fb75b07-f2d2-4262-90f2-6c0faf3d7379)
 
-⚠️ **Screenshots and gameplay preview coming soon!**
+**Game World**
+![Screenshot (10)](https://github.com/user-attachments/assets/8ce79883-ae39-4618-a783-fc96ab509072)
+
+**Deliver Right Recipies**
+![Screenshot (15)](https://github.com/user-attachments/assets/f721c946-5fd3-4271-ae5e-6eaf889a1b87)
+
+**Fry and Cut**
+![Screenshot (12)](https://github.com/user-attachments/assets/bfe04cc3-34fa-4ea4-a552-276cdac0e273)
+
+**Place Right Ingredients**
+![Screenshot (14)](https://github.com/user-attachments/assets/8012e205-1793-4841-a199-e10e67d3837f)
 
 
 ### 🌐 Connect with Me  
