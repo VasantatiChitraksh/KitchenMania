@@ -72,6 +72,8 @@ Special thanks to **[CodeMonkey](https://www.youtube.com/@CodeMonkeyUnity)** for
 
 ---
 
+Or Just Download the .exe file and Play it on a windows platform
+
 ## ✨ Preview
 
 ⚠️ **Screenshots and gameplay preview coming soon!**
